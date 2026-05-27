@@ -1,4 +1,4 @@
-# ComfyUI Turnaround Sheet Generator
+# Chararcter Pose Generator
 
 A Python script that automates the generation of 4-view character turnaround sheets (front, right, back, left) using **Flux Kontext** inside ComfyUI. Designed for feeding clean turnaround poses into Hunyuan3D or LoRA training pipelines.
 
